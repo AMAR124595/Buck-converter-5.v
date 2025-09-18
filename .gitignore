@@ -1,0 +1,6 @@
+# Ignore all KiCad project metadata and autosave files
+*.kicad_prl
+*.kicad_pro
+*.autosave
+*-bak
+*-backups/
