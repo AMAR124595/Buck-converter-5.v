@@ -1,6 +1,7 @@
-# Ignore all KiCad project metadata and autosave files
-.kicad_prl
-.kicad_pro
-.autosave
--bak
--backups/
+# Ignore KiCad auto-generated files for TPS5430_5V project
+TPS5430_5V.kicad_prl
+TPS5430_5V.autosave
+TPS5430_5V.kicad_pro
+TPS5430_5V.kicad_sch-bak
+TPS5430_5V.kicad_pcb-bak
+TPS5430_5V-backups/
