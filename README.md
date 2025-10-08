@@ -23,7 +23,7 @@ It is optimized to deliver **up to 3A continuous output current** from a lithium
 
 ## ⚙️ How It Works
 1. **Input Power**  
-   - The circuit accepts power from a **2S Li-ion pack** (7.4V nominal, 8.4V fully charged) or other DC supplies up to 35V.  
+   - The circuit accepts power from a  DC supplies up to 35V.  
 
 2. **Buck Conversion (TPS5430)**  
    - The TPS5430 regulator steps down the input voltage to a stable 5V output.  
